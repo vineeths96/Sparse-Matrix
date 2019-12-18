@@ -84,6 +84,5 @@ CONTACT
 ========
 Developed by
 Name	 : Vineeth S
-SR No	 : 16543
-Email id : vineeths@iisc.ac.in
+
 
