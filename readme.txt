@@ -21,7 +21,7 @@ Compressed sparse matrix formars stores the sparse matrixes in much more efficie
 requirements. The theory in detail has been provided along with the assignamnet sheet.The entire program 
 is written in three files. Comments have been added frequently to help in understanding the logic behind 
 implementation. The program has five functions pertaining one to each question and
-two additional functions to sort and input data to matrices. 
+two additional functions to sort and input data to matrices. Refer problem statement file for detailed information.
 
 
 OPERATING SYSTEM AND SOFTWARE REQUIRMENTS
