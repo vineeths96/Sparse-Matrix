@@ -11,7 +11,7 @@
     <a href=https://github.com/vineeths96/Sparse-Matrix><strong>Explore the repository»</strong></a>
     <br />
     <br />
-    <a href=https://github.com/vineeths96/Sparse-Matrix/blob/master/results/Problem%20Statement.pdf>View Problem Statement</a>
+    <a href=https://github.com/vineeths96/Sparse-Matrix/blob/master/Problem%20Statement.pdf>View Problem Statement</a>
     </p>
 
 
