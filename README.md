@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The program deals with the compressed row, compressed column, and coordinate format of sparse matrix representation and its manipulation. Compressed sparse matrix formars stores the sparse matrixes in much more efficient way with reduced space requirements. The theory in detail has been provided at [SparseDataStructs](./SparseDataStructs.pdf) file .The entire program is written in three files - `client.c`, `header.c`, and `implement.c`. Comments have been added frequently to help in understanding the logic behind implementation. The program has five functions pertaining one to each question and two additional functions to sort and input data to matrices. Refer [Problem statement](./Problem Statement.pdf) file for detailed information.
+The program deals with the compressed row, compressed column, and coordinate format of sparse matrix representation and its manipulation. Compressed sparse matrix formars stores the sparse matrixes in much more efficient way with reduced space requirements. The theory in detail has been provided at [SparseDataStructs](./SparseDataStructs.pdf) file .The entire program is written in three files - `client.c`, `header.c`, and `implement.c`. Comments have been added frequently to help in understanding the logic behind implementation. The program has five functions pertaining one to each question and two additional functions to sort and input data to matrices. Refer [Problem statement](./Problem%20Statement.pdf) file for detailed information.
 
 ### Built With
 This project was built with 
